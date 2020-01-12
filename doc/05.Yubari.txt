@@ -1,0 +1,4 @@
+# encoding: UTF-8
+# author: RShirohara
+# title: 夕張_妖精を実装する
+
