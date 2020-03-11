@@ -1,0 +1,17 @@
+@startuml plot
+
+title 03
+participant 夕張
+box 七ヶ浜
+    participant 古鷹
+    participant 加古
+end box
+
+group 車内
+    rnote over 夕張 : test
+    夕張 -> 古鷹 : 妖精について聞く
+    夕張 <-- 古鷹 : はぐらかす
+    
+end
+
+@enduml
