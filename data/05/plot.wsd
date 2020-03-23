@@ -3,15 +3,15 @@
 title 03
 participant 夕張
 participant 上司
-box 七ヶ浜
+box 七ヶ浜分遣隊
     participant 古鷹
-    participant 加古 as 加古 <<過去回想>>
+    participant 加古
 end box
 
 ==駅前~車内==
     夕張 <-> 古鷹 : 挨拶
     hnote over 夕張, 上司 : 乗車
-    rnote over 古鷹 : 運転手
+    rnote over 古鷹 : 運転
     夕張 -> 古鷹 : 妖精について
     古鷹 -> 夕張 : 周りを見て回りながら話そう
     hnote over 古鷹 : 移動 -> 塩竃港
@@ -26,7 +26,7 @@ end box
             rnote over 加古 : 被弾, 妖精現れる
             hnote over 加古 : 妖精触れる
             rnote over 加古 : 記録の断片流入, 動作強化\n昏睡
-            古鷹 --> 加古 : 担いで撤退
+            hnote over 古鷹, 加古 : 担いで撤退
             rnote over 古鷹 : 妖精見える(一瞬)
             hnote over 古鷹 : 妖精触れる
         end
