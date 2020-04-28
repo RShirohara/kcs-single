@@ -21,13 +21,11 @@ end box
     group 過去回想
         古鷹 <--> 加古 : 信頼
         古鷹 --> 加古 : ぼんやりしているが鋭い(野生の勘?)
-        rnote over 加古 : 妖精見える
+        rnote over 加古 : 妖精見える,頭痛?
         加古 -> 古鷹 : 相談, 暇潰しの話程度
         group 防衛戦
-            rnote over 加古 : 被弾, 妖精現れる
-            hnote over 加古 : 妖精触れる
-            rnote over 加古 : 記録の断片流入, 動作強化\n昏睡
-            hnote over 古鷹, 加古 : 担いで撤退
+            rnote over 加古 : 深海棲艦と接触\n昏睡
+            hnote over 古鷹, 加古 : 撤退
             rnote over 古鷹 : 妖精見える(一瞬)
             hnote over 古鷹 : 妖精触れる
         end
