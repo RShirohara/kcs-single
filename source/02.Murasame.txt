@@ -1,6 +1,6 @@
-# encoding: UTF-8
-# author: Shiro_Shz
-# title: 村雨_Father's letter
+<!-- encoding: UTF-8 -->
+<!-- author: Shiro_Shz -->
+# Father's letter
 
 
 　海面に水柱が突き立ち、轟音が響き渡る。
