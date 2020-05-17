@@ -1,6 +1,6 @@
-# encoding: UTF-8
-# Shiro_Shz 2019 04-05
-# 時雨_良い雨を待っている
+<!-- encoding: UTF-8 -->
+<!-- author: Shiro_Shz -->
+# 良い雨を待っている
 
 
 　雨が降っている。

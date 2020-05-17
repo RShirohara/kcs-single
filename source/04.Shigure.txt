@@ -1,6 +1,6 @@
-# encoding: UTF-8
-# author: RShirohara
-# title: 時雨_"A few years after"
+<!-- encoding: UTF-8 -->
+<!-- author: RShirohara -->
+# A few years after
 
 
 　風に鳴く窓越しに海を眺める時雨の視界には、白く舞う雪がちらつく。

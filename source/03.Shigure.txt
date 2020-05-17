@@ -1,6 +1,6 @@
-# encoding: UTF-8
-# author: Shiro_Shz
-# title: 時雨_雪の降る夜
+<!-- encoding: UTF-8 -->
+<!-- author: Shiro_Shz -->
+# 時雨_雪の降る夜
 
 
 　夜には、文章と過ごす。
