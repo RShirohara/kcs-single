@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 # author: Shiro_Shz
 
-import os
 import random
 import sys
 
