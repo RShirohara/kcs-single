@@ -1,5 +1,5 @@
 {
     "markdown.preview.fontFamily": "Noto Setif CJK JP",
-    "markdown.preview.fontSize": 16,
-    "markdown.styles": ["source/style.css"]
+    "markdown.preview.fontSize": 16
+    // "markdown.styles": ["source/style.css"]
 }
