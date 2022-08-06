@@ -61,7 +61,7 @@ author: Ray Shirohara
 
 ### 5. 未来, 妖精によって記述される艦娘
 
-"尾張夕奈の名は、妖精を実行する基盤となるソフトウェアの、ほぼ全てのソースコード中に見出すことが出来る。"
+> 尾張夕奈の名は、妖精を実行する基盤となるソフトウェアの、ほぼ全てのソースコード中に見出すことが出来る。
 
 ## 艦娘"陽炎"としての繋がり-切断
 
@@ -164,7 +164,7 @@ author: Ray Shirohara
 
 #### 1. 骨の埋まる砂浜
 
-<https://github.com/RShirohara/kcs-shiraShig-kai2/blob/0b4901304d864c295c0d5759bd755222eb07fdae/source/01.txt#L5-L21>
+<https://github.com/RShirohara/kcs-shirashig-kai2/blob/0b4901304d864c295c0d5759bd755222eb07fdae/source/01.txt#L5-L21>
 
 #### 2. 雪の中
 
@@ -242,4 +242,4 @@ author: Ray Shirohara
     - 艦娘がいる
     - 「来る数日前に派遣された者がいたが、報告では既に人はいなかった」
     - 前任者の行方も知れない
-    > 「艦娘の間に伝わる、奇妙な恋の話である」
+    - > 「艦娘の間に伝わる、奇妙な恋の話である」
