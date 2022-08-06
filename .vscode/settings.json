@@ -1,8 +1,5 @@
 {
     "markdown.preview.fontFamily": "Noto Setif CJK JP",
     "markdown.preview.fontSize": 16,
-    "markdown.styles": ["source/style.css"],
-    "plantuml.diagramsRoot": "data",
-    "plantuml.exportOutDir": "data",
-    "plantuml.exportSubFolder": false
+    "markdown.styles": ["source/style.css"]
 }
