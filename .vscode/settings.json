@@ -1,4 +1,5 @@
 {
+    "markdown.preview.breaks": true,
     "markdown.preview.fontFamily": "'Noto Serif CJK JP', 'Noto Serif JP', serif",
     "markdown.preview.fontSize": 17,
     "markdown.styles": ["source/preview.css"]
