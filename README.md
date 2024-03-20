@@ -4,4 +4,4 @@
 
 ## License
 
-[CC-BY-4.0](./LICENSE.md)
+[CC-BY-4.0](./LICENSE)
